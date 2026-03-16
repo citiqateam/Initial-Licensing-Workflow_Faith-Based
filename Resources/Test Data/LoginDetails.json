@@ -1,0 +1,31 @@
+[
+{
+"username" : "TrialCenter5@sharklasers.com",
+"EmailIDforThirdParty" : "TrialCenter5",
+"password" : "Pass@123",
+"providerName" : "Center TrialFive ",
+"FirstName": "TrialFive",
+"LastName": "Center",
+"DateOfBirth": "01/08/1988",
+"Gender": "Male",
+"LicenseName": "Trial Center Two",
+
+"URL": "https://al-arise-qa-publicaccess.citigovcloud.com/Account/Login?ReturnUrl=%2FAccount%2FLogOff"
+
+}, 
+
+{
+"username" : "TrialCenter4@sharklasers.com",
+"EmailIDforThirdParty" : "TrialCenter4",
+"password" : "Pass@123",
+"providerName" : "Center Trialfour ",
+"FirstName": "Trialfour",
+"LastName": "Center",
+"DateOfBirth": "02/09/1995",
+"Gender": "Male",
+"LicenseName": "Trial Center Four",
+
+"URL": "https://al-arise-qa-publicaccess.citigovcloud.com/Account/Login?ReturnUrl=%2FAccount%2FLogOff"
+
+}
+]
